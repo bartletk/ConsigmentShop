@@ -1,0 +1,11 @@
+\\vroamvan01\folderredirects\documents\vhp\tkbartley\documents\visual studio 2015\Projects\ConsigmentShop\ConsigmentShopUI\bin\Debug\ConsigmentShopUI.exe.config
+\\vroamvan01\folderredirects\documents\vhp\tkbartley\documents\visual studio 2015\Projects\ConsigmentShop\ConsigmentShopUI\bin\Debug\ConsigmentShopUI.exe
+\\vroamvan01\folderredirects\documents\vhp\tkbartley\documents\visual studio 2015\Projects\ConsigmentShop\ConsigmentShopUI\bin\Debug\ConsigmentShopUI.pdb
+\\vroamvan01\folderredirects\documents\vhp\tkbartley\documents\visual studio 2015\Projects\ConsigmentShop\ConsigmentShopUI\obj\Debug\ConsigmentShopUI.csprojResolveAssemblyReference.cache
+\\vroamvan01\folderredirects\documents\vhp\tkbartley\documents\visual studio 2015\Projects\ConsigmentShop\ConsigmentShopUI\obj\Debug\ConsigmentShopUI.ConsigmentShop.resources
+\\vroamvan01\folderredirects\documents\vhp\tkbartley\documents\visual studio 2015\Projects\ConsigmentShop\ConsigmentShopUI\obj\Debug\ConsigmentShopUI.Properties.Resources.resources
+\\vroamvan01\folderredirects\documents\vhp\tkbartley\documents\visual studio 2015\Projects\ConsigmentShop\ConsigmentShopUI\obj\Debug\ConsigmentShopUI.csproj.GenerateResource.Cache
+\\vroamvan01\folderredirects\documents\vhp\tkbartley\documents\visual studio 2015\Projects\ConsigmentShop\ConsigmentShopUI\obj\Debug\ConsigmentShopUI.exe
+\\vroamvan01\folderredirects\documents\vhp\tkbartley\documents\visual studio 2015\Projects\ConsigmentShop\ConsigmentShopUI\obj\Debug\ConsigmentShopUI.pdb
+\\vroamvan01\folderredirects\documents\vhp\tkbartley\documents\visual studio 2015\Projects\ConsigmentShop\ConsigmentShopUI\bin\Debug\ConsignmentShopLibrary.dll
+\\vroamvan01\folderredirects\documents\vhp\tkbartley\documents\visual studio 2015\Projects\ConsigmentShop\ConsigmentShopUI\bin\Debug\ConsignmentShopLibrary.pdb
