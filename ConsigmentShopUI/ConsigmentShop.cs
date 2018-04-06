@@ -20,6 +20,7 @@ namespace ConsigmentShopUI
         public ConsigmentShop()
         {
             InitializeComponent();
+            SetupData();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -34,7 +35,9 @@ namespace ConsigmentShopUI
 
         private void SetupData()
         {
-
+            store.Vendors.Add(new Vendor {FirstName = "Bill", LastName = "Smith"});
+            store.Vendors.Add(new Vendor { FirstName = "Sue", LastName = "Jones"});
+            store.Vendors.Add(new Vendor { FirstName = "Mary", LastName = "Toms"});
         }
 
 
