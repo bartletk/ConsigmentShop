@@ -20,3 +20,14 @@
 \\vroamvan01\FolderRedirects\Documents\VHP\tkbartley\Documents\Visual Studio 2015\Projects\ConsignmentShop\ConsigmentShopUI\obj\Debug\ConsigmentShopUI.ConsignmentShop.resources
 \\vroamvan01\FolderRedirects\Documents\VHP\tkbartley\Documents\Visual Studio 2015\Projects\ConsignmentShop\ConsigmentShopUI\obj\Debug\ConsigmentShopUI.Properties.Resources.resources
 \\vroamvan01\FolderRedirects\Documents\VHP\tkbartley\Documents\Visual Studio 2015\Projects\ConsignmentShop\ConsigmentShopUI\obj\Debug\ConsignmentShopUI.csproj.GenerateResource.Cache
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsigmentShopUI\bin\Debug\ConsigmentShopUI.exe.config
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsigmentShopUI\obj\Debug\ConsigmentShopUI.exe
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsigmentShopUI\obj\Debug\ConsigmentShopUI.pdb
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsigmentShopUI\bin\Debug\ConsigmentShopUI.exe
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsigmentShopUI\bin\Debug\ConsigmentShopUI.pdb
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsigmentShopUI\bin\Debug\ConsignmentShopLibrary.dll
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsigmentShopUI\bin\Debug\ConsignmentShopLibrary.pdb
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsigmentShopUI\obj\Debug\ConsignmentShopUI.csprojResolveAssemblyReference.cache
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsigmentShopUI\obj\Debug\ConsigmentShopUI.ConsignmentShop.resources
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsigmentShopUI\obj\Debug\ConsigmentShopUI.Properties.Resources.resources
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsigmentShopUI\obj\Debug\ConsignmentShopUI.csproj.GenerateResource.Cache

@@ -8,3 +8,8 @@
 \\vroamvan01\FolderRedirects\Documents\VHP\tkbartley\Documents\Visual Studio 2015\Projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csprojResolveAssemblyReference.cache
 \\vroamvan01\FolderRedirects\Documents\VHP\tkbartley\Documents\Visual Studio 2015\Projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.dll
 \\vroamvan01\FolderRedirects\Documents\VHP\tkbartley\Documents\Visual Studio 2015\Projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.pdb
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.dll
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.pdb
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csprojResolveAssemblyReference.cache
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.dll
+E:\Users\Bartimus\Developer Practice\ConsigmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.pdb
